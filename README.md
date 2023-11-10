@@ -1,7 +1,7 @@
 # cheatsheet
 cd nombre-directorio: para acceder a distintos directorios
 cd.. : para volver al directorio superior
-dir: para listar el contenido del directorio
+dir: para listar contenido del directorio
 mkdir nombre-directorio: para crear un nuevo directorio
 
 ## vs code atajos teclado
