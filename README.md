@@ -17,3 +17,5 @@ git clone url-repositorio: clonar repositorio
 git add . : añadir cambios a stage(confirmar cambios antes de hacer commit)
 git commit -m "mensaje": (explicar cambios)
 git push: subir cambios al repositorio remoto
+git chekout -b nombre-rama: crear una rama 
+git checkout nombre-rama :cambiar de rama
