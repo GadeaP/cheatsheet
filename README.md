@@ -10,3 +10,10 @@ ctrl+s: guardar en visualk
 ctrl+k+c: comentar lo seleccionado
 ctrl+k+u: descomentar
 alt+z: ajustar texto a ventana
+
+
+## git commands
+git clone url-repositorio: clonar repositorio
+git add . : añadir cambios a stage(confirmar cambios antes de hacer commit)
+git commit -m "mensaje": (explicar cambios)
+git push: subir cambios al repositorio remoto
